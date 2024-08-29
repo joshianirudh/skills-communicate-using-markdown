@@ -2,6 +2,9 @@
 ## h2 
 ### h3 
 #### h4
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ``` javascript
 var myVar = "Hello, world!";
 ```
